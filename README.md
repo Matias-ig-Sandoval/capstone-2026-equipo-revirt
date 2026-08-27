@@ -20,7 +20,7 @@ El equipo busca diseñar un sistema y una metodología que permita cuantificar y
 | Matías Sandoval | Ingeniería Civil en Computación e Informática | Lider | Matias Sandoval |
 | Javier Saavedra | Ingeniería Civil en Computación e Informática | Investigación | [@usuario_javier] |
 | Sebastian Sepulveda | Ingeniería Civil en Computación e Informática | [Rol de Sebastian] | [@usuario_sebastian] |
-| Franco Rodriguez | [Carrera de Franco] | [Rol de Franco] | [@usuario_franco] |
+| Franco Rodriguez | ingeniería civil en computación e informática| documentación | [@usuario_franco] |
 
 ## Valores del equipo
 
