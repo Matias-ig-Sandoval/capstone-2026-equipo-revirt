@@ -66,27 +66,41 @@ Los principales usuarios o beneficiarios de este proyecto son el equipo de gesti
 |---|---|---|---|
 | Crear repositorio en GitHub con estructura inicial y README | Matías Sandoval | 27-08-2026 | Terminado |
 | Investigar proyectos similares o ejemplos de prototipos de medición de reciclaje | Javier Saavedra | 27-08-2026 | Pendiente |
-| [Actividad de Sebastian/Franco] | [Nombre] | [dd-mm-aaaa] | Pendiente |
 
 ## Índice de la bitácora
 
 - [S01 - Identidad del equipo y desafío](bitacora/S01.md)
 - [S02 - Levantamiento inicial](bitacora/S02.md)
-- [S03 - Empatizar](bitacora/S03.md)
+- [S03 - Sin clases: Trofeo Mayor](bitacora/S03.md)
+- [S04 - Hito 1: Presentación del problema y Ficha Diagnóstica](bitacora/S04.md)
+- [S05 - Sin clases: receso de Fiestas Patrias](bitacora/S05.md)
+- [S06 - Visita a terreno al Hub Providencia](bitacora/S06.md)
+- [S07 - Sin clases: paro universitario (primera semana)](bitacora/S07.md)
+- [S08 - Sin clases: paro universitario (segunda semana)](bitacora/S08.md)
+- [S09 - Sin clases: paro universitario (tercera semana)](bitacora/S09.md)
+- [S10 - Ejercicio de observación y selección de la solución](bitacora/S10.md)
+- [S11 - Sin clases: suspensión de la sesión por la docente](bitacora/S11.md)
 
 ## Evidencias principales
 
-- [Aún en etapa de definición]
+- [Ficha Diagnóstica del desafío](entregas/Ficha_Diagnostica_Revirt-2.pdf)
+- [Ficha de observación grupal (Clase 5)](entregas/S10/Ficha_Observacion_Revirt-1.pdf)
+- [Mapa de empatía](imagenes/S02/mapa_empatia.jpg) y [mapa conceptual](imagenes/S02/mapa_conceptual.png)
+- [Foto de la visita a terreno al Hub Providencia](imagenes/S06/foto_grupo6.jpeg)
 
 ## Decisiones relevantes
 
 | Fecha | Decisión | Evidencia o criterio utilizado |
 |---|---|---|
 | 25-08-2026 | Elección del Desafío 04 | Interés del equipo en desarrollar soluciones de sostenibilidad utilizando hardware y datos. |
+| 10-09-2026 | Definir el problema como falta de información y no como un problema logístico | Mapa de empatía y Ficha Diagnóstica (S02 y S04). |
+| 24-09-2026 | Enfocar el diagnóstico en los residuos de PLA de impresión 3D | Visita a terreno: el personal del Hub indicó que el PLA es el residuo principal (S06). |
+| 22-10-2026 | Elegir la solución Revirt Traza | Evaluación de 10 ideas con una matriz de criterios (S10). |
+| 05-11-2026 | Medir el PLA solo con sensores de peso (celda de carga + ESP32) | La Municipalidad necesita kilos y el kit del curso incluye el ESP32. |
 
 ## Próximo hito
 
-Definir la idea general del proyecto y coordinar una visita al Hub Providencia para observar directamente los problemas de residuos en terreno.
+Construir el prototipo físico de la estación de pesaje, medir su error con pesos conocidos y validar su uso con el equipo del Hub Providencia durante noviembre.
 
 ## Uso y licencia
 
