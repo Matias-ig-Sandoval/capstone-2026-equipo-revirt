@@ -80,6 +80,8 @@ Los principales usuarios o beneficiarios de este proyecto son el equipo de gesti
 - [S09 - Sin clases: paro universitario (tercera semana)](bitacora/S09.md)
 - [S10 - Ejercicio de observación y selección de la solución](bitacora/S10.md)
 - [S11 - Sin clases: suspensión de la sesión por la docente](bitacora/S11.md)
+- [S12 - Desafío de la torre de fideos y pitch de Revirt Traza](bitacora/S12.md)
+- [S13 - Desafío del huevo y presentación del prototipo](bitacora/S13.md)
 
 ## Evidencias principales
 
